@@ -38,6 +38,9 @@ span {
 
 #box2 {
     background-color: rgba(189, 162, 13, 0.425);
+    position: absolute;
+    left: 61%;
+    top: 0%;
 }
 
 #box3 {
@@ -47,3 +50,9 @@ span {
 #box4 {
     background-color: floralwhite;
 }
+
+#container {
+    position: relative;
+}
+
+
