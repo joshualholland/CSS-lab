@@ -38,9 +38,6 @@ span {
 
 #box2 {
     background-color: rgba(189, 162, 13, 0.425);
-    position: absolute;
-    left: 61%;
-    top: 0%;
 }
 
 #box3 {
@@ -55,4 +52,60 @@ span {
     position: relative;
 }
 
+.img {
+    width: 1rem;
+    height: 1rem;
+    background-color: sandybrown;
+}
 
+h1 {
+    color: aqua;
+}
+
+.tv {
+    color: green;
+}
+
+.tv2 {
+    color: blue;
+}
+
+#show1 {
+    color: coral;
+}
+
+#show2 {
+    color: darkmagenta;
+}
+
+#show3 {
+    color: aqua;
+}
+
+#show4 {
+    color: crimson;
+}
+
+#show5 {
+    color: green;
+}
+
+ul {
+    color: blueviolet;
+}
+
+.friends {
+    color: darkolivegreen;
+}
+
+.travel {
+    color: darkcyan;
+}
+
+.food {
+    color: darkmagenta;
+}
+
+.list {
+    border: solid 2px black;
+}
