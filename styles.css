@@ -13,11 +13,12 @@ a {
 }
 
 .boxes {
-    display: inline-block;
+    display: block;
     margin: auto;
     padding: 1rem;
     border: 5px solid purple;
     border-radius: 1rem;
+    width: 20%;
 }
 
 a:hover {
@@ -26,3 +27,23 @@ a:hover {
     cursor: pointer;
 }
 
+span {
+    font-weight: 600;
+    color: orangered;
+}
+
+#box1 {
+    background-color: aquamarine;
+}
+
+#box2 {
+    background-color: rgba(189, 162, 13, 0.425);
+}
+
+#box3 {
+    background-color: rgba(238, 141, 238, 0.699);
+}
+
+#box4 {
+    background-color: floralwhite;
+}
